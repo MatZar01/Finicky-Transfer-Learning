@@ -1,0 +1,1 @@
+Directory to place your dataset images in separate folders with names corresponding to classes
