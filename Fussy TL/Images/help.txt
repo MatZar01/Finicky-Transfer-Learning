@@ -1,0 +1,1 @@
+Directory to store images for fussy kernel selection
