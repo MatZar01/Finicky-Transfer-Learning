@@ -1,0 +1,2 @@
+Example of sliced model - with 10% parameters left in network.
+Obtained from Vanilla VGG16 trained on ImageNet, include_top=False
