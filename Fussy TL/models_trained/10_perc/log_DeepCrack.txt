@@ -1,0 +1,6 @@
+DeepCrack Dataset:
+[INFO] Execution time for 1048 images was 82.690664768219 seconds
+Accuracy: 0.8568702290076335
+Precision: 0.9269406392694064
+Recall: 0.7748091603053435
+Saved to log
