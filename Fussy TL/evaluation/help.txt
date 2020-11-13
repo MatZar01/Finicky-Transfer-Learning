@@ -1,0 +1,4 @@
+Directory to place evaluation data.
+For initial tests DeepCrack dataset - https://github.com/yhlleo/DeepCrack/tree/master/dataset
+and kaggle dataset - https://www.kaggle.com/arunrk7/surface-crack-detection
+were used.
