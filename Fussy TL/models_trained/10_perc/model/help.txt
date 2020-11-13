@@ -1,1 +1,0 @@
-Directory to store model parts as .h5 files
