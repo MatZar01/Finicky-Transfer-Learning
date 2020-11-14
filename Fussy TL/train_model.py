@@ -6,7 +6,7 @@ import pickle
 import h5py
 import os
 
-DIR = '/home/matix/Pulpit/Selective TL/models_trained/20_perc'
+DIR = './models_trained/20_perc'
 databasePath = DIR + '/features.hdf5'
 modelPath = DIR + '/fussy_model.cpickle'
 if os.path.exists(modelPath):
