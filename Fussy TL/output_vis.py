@@ -161,7 +161,8 @@ def print_help():
 
 
 def main(csv_file_path):
-    if csv_file_path is "--help":
+    csv_file_path = csv_file_path.replace('-', '')
+    if csv_file_path == "help":
         print_help()
         return
 
