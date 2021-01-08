@@ -155,7 +155,7 @@ def plot_pruned_decision_f(data_dict):
 
 
 def print_help():
-    print("Avaiable commands:")
+    print("Available commands:")
     print("--help to display this message again")
     print("--csv_file_path to specify output .cvs file path")
 
