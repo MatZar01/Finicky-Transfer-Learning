@@ -48,10 +48,10 @@ In order to obtain pruned networks provided scripts should be run in order accor
 * test_models.py - for testing obtained models
 
 Mentioned scripts apart from performing the default operations, can accept certain parameters and can be run directly from bash:
-* make_fussy_models.py <<output models dir>> <<path to backbone CNN>>
-* extract_features.py <<output models dir>> 
-* train_models.py <<output models dir>> 
-* test_models.py <<output models dir>> 
+* make_fussy_models.py \<\<output models dir\>\> \<\<path to backbone CNN\>\>
+* extract_features.py \<\<output models dir\>\> 
+* train_models.py \<\<output models dir\>\> 
+* test_models.py \<\<output models dir\>\> 
   
 Pruned models will be saved in `./Fussy TL/ models` dir to be used in model deployment.
 
