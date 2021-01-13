@@ -13,7 +13,7 @@ args = sys.argv
 if len(args) == 1:
     DIR = './models'
 else:
-    DIR = args[1]
+    DIR = './' + args[1]
 
 all_pts = list(paths.list_files(DIR))
 db_pts = []
