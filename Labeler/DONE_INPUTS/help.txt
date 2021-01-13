@@ -1,0 +1,1 @@
+Folder storing done images in the same format as input image.
