@@ -20,7 +20,7 @@ args = sys.argv
 if len(args) == 1:
     M_DIR = './models'
 else:
-    M_DIR = args[1]
+    M_DIR = './' + args[1]
 
 DATA_DIR = './dataset'
 batchSize = 1
