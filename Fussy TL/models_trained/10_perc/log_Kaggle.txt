@@ -1,6 +1,0 @@
-Kaggle Dataset:
-[INFO] Execution time for 2000 images was 172.40369725227356 seconds
-Accuracy: 0.895
-Precision: 0.8857421875
-Recall: 0.907
-Saved to log
