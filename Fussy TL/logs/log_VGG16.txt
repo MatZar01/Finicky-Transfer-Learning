@@ -1,0 +1,647 @@
+MODEL: ./100_test/model_0.01.h5
+Paremeters: 2296
+[INFO] Execution time for 1000 images was 26.067956924438477 seconds
+Accuracy: 0.5
+Precision: 0
+Recall: 0.0
+
+MODEL: ./100_test/model_0.02.h5
+Paremeters: 8377
+[INFO] Execution time for 1000 images was 2.7087578773498535 seconds
+Accuracy: 0.5
+Precision: 0
+Recall: 0.0
+
+MODEL: ./100_test/model_0.03.h5
+Paremeters: 24425
+[INFO] Execution time for 1000 images was 2.8079090118408203 seconds
+Accuracy: 0.5
+Precision: 0
+Recall: 0.0
+
+MODEL: ./100_test/model_0.04.h5
+Paremeters: 40951
+[INFO] Execution time for 1000 images was 2.849078416824341 seconds
+Accuracy: 0.5
+Precision: 0
+Recall: 0.0
+
+MODEL: ./100_test/model_0.05.h5
+Paremeters: 73025
+[INFO] Execution time for 1000 images was 2.837078332901001 seconds
+Accuracy: 0.669
+Precision: 0.6405990016638935
+Recall: 0.77
+
+MODEL: ./100_test/model_0.06.h5
+Paremeters: 107760
+[INFO] Execution time for 1000 images was 2.9397928714752197 seconds
+Accuracy: 0.656
+Precision: 0.6326530612244898
+Recall: 0.744
+
+MODEL: ./100_test/model_0.07.h5
+Paremeters: 128416
+[INFO] Execution time for 1000 images was 2.9838173389434814 seconds
+Accuracy: 0.584
+Precision: 0.5660377358490566
+Recall: 0.72
+
+MODEL: ./100_test/model_0.08.h5
+Paremeters: 151992
+[INFO] Execution time for 1000 images was 3.1368236541748047 seconds
+Accuracy: 0.673
+Precision: 0.6332819722650231
+Recall: 0.822
+
+MODEL: ./100_test/model_0.09.h5
+Paremeters: 199108
+[INFO] Execution time for 1000 images was 3.137911558151245 seconds
+Accuracy: 0.815
+Precision: 0.7848101265822784
+Recall: 0.868
+
+MODEL: ./100_test/model_0.1.h5
+Paremeters: 257418
+[INFO] Execution time for 1000 images was 3.1872503757476807 seconds
+Accuracy: 0.699
+Precision: 0.7611548556430446
+Recall: 0.58
+
+MODEL: ./100_test/model_0.11.h5
+Paremeters: 303500
+[INFO] Execution time for 1000 images was 3.27258563041687 seconds
+Accuracy: 0.765
+Precision: 0.6992481203007519
+Recall: 0.93
+
+MODEL: ./100_test/model_0.12.h5
+Paremeters: 374231
+[INFO] Execution time for 1000 images was 3.3909220695495605 seconds
+Accuracy: 0.832
+Precision: 0.7953736654804271
+Recall: 0.894
+
+MODEL: ./100_test/model_0.13.h5
+Paremeters: 401447
+[INFO] Execution time for 1000 images was 3.523206949234009 seconds
+Accuracy: 0.772
+Precision: 0.7344827586206897
+Recall: 0.852
+
+MODEL: ./100_test/model_0.14.h5
+Paremeters: 470271
+[INFO] Execution time for 1000 images was 3.6324539184570312 seconds
+Accuracy: 0.901
+Precision: 0.8652094717668488
+Recall: 0.95
+
+MODEL: ./100_test/model_0.15.h5
+Paremeters: 516342
+[INFO] Execution time for 1000 images was 3.691967487335205 seconds
+Accuracy: 0.78
+Precision: 0.7904564315352697
+Recall: 0.762
+
+MODEL: ./100_test/model_0.16.h5
+Paremeters: 605096
+[INFO] Execution time for 1000 images was 3.862718343734741 seconds
+Accuracy: 0.9
+Precision: 0.8745318352059925
+Recall: 0.934
+
+MODEL: ./100_test/model_0.17.h5
+Paremeters: 664012
+[INFO] Execution time for 1000 images was 3.8991708755493164 seconds
+Accuracy: 0.87
+Precision: 0.9021739130434783
+Recall: 0.83
+
+MODEL: ./100_test/model_0.18.h5
+Paremeters: 761672
+[INFO] Execution time for 1000 images was 3.9345622062683105 seconds
+Accuracy: 0.954
+Precision: 0.9486166007905138
+Recall: 0.96
+
+MODEL: ./100_test/model_0.19.h5
+Paremeters: 964407
+[INFO] Execution time for 1000 images was 4.196683406829834 seconds
+Accuracy: 0.959
+Precision: 0.9508840864440079
+Recall: 0.968
+
+MODEL: ./100_test/model_0.2.h5
+Paremeters: 992359
+[INFO] Execution time for 1000 images was 4.290948390960693 seconds
+Accuracy: 0.974
+Precision: 0.979757085020243
+Recall: 0.968
+
+MODEL: ./100_test/model_0.21.h5
+Paremeters: 917764
+[INFO] Execution time for 1000 images was 4.148070335388184 seconds
+Accuracy: 0.858
+Precision: 0.8403041825095057
+Recall: 0.884
+
+MODEL: ./100_test/model_0.22.h5
+Paremeters: 1052662
+[INFO] Execution time for 1000 images was 4.383517503738403 seconds
+Accuracy: 0.932
+Precision: 0.932
+Recall: 0.932
+
+MODEL: ./100_test/model_0.23.h5
+Paremeters: 1124233
+[INFO] Execution time for 1000 images was 4.3023521900177 seconds
+Accuracy: 0.937
+Precision: 0.9275929549902152
+Recall: 0.948
+
+MODEL: ./100_test/model_0.24.h5
+Paremeters: 1282368
+[INFO] Execution time for 1000 images was 4.539945363998413 seconds
+Accuracy: 0.922
+Precision: 0.9395833333333333
+Recall: 0.902
+
+MODEL: ./100_test/model_0.25.h5
+Paremeters: 1402763
+[INFO] Execution time for 1000 images was 4.733832597732544 seconds
+Accuracy: 0.922
+Precision: 0.8936567164179104
+Recall: 0.958
+
+MODEL: ./100_test/model_0.26.h5
+Paremeters: 1418875
+[INFO] Execution time for 1000 images was 4.655638933181763 seconds
+Accuracy: 0.909
+Precision: 0.8724954462659381
+Recall: 0.958
+
+MODEL: ./100_test/model_0.27.h5
+Paremeters: 1575496
+[INFO] Execution time for 1000 images was 4.96873664855957 seconds
+Accuracy: 0.923
+Precision: 0.9075144508670521
+Recall: 0.942
+
+MODEL: ./100_test/model_0.28.h5
+Paremeters: 1770727
+[INFO] Execution time for 1000 images was 5.130851984024048 seconds
+Accuracy: 0.963
+Precision: 0.9495145631067962
+Recall: 0.978
+
+MODEL: ./100_test/model_0.29.h5
+Paremeters: 1755148
+[INFO] Execution time for 1000 images was 5.106041669845581 seconds
+Accuracy: 0.861
+Precision: 0.9546599496221663
+Recall: 0.758
+
+MODEL: ./100_test/model_0.3.h5
+Paremeters: 1999937
+[INFO] Execution time for 1000 images was 5.805650234222412 seconds
+Accuracy: 0.918
+Precision: 0.9230769230769231
+Recall: 0.912
+
+MODEL: ./100_test/model_0.31.h5
+Paremeters: 2065804
+[INFO] Execution time for 1000 images was 5.723339557647705 seconds
+Accuracy: 0.939
+Precision: 0.9470468431771895
+Recall: 0.93
+
+MODEL: ./100_test/model_0.32.h5
+Paremeters: 2232127
+[INFO] Execution time for 1000 images was 5.80997109413147 seconds
+Accuracy: 0.911
+Precision: 0.9576837416481069
+Recall: 0.86
+
+MODEL: ./100_test/model_0.33.h5
+Paremeters: 2291157
+[INFO] Execution time for 1000 images was 6.08073616027832 seconds
+Accuracy: 0.949
+Precision: 0.9553752535496958
+Recall: 0.942
+
+MODEL: ./100_test/model_0.34.h5
+Paremeters: 2456868
+[INFO] Execution time for 1000 images was 6.138672113418579 seconds
+Accuracy: 0.92
+Precision: 0.9411764705882353
+Recall: 0.896
+
+MODEL: ./100_test/model_0.35.h5
+Paremeters: 2701236
+[INFO] Execution time for 1000 images was 6.465540647506714 seconds
+Accuracy: 0.949
+Precision: 0.9342359767891683
+Recall: 0.966
+
+MODEL: ./100_test/model_0.36.h5
+Paremeters: 2735378
+[INFO] Execution time for 1000 images was 6.459935188293457 seconds
+Accuracy: 0.94
+Precision: 0.9564315352697096
+Recall: 0.922
+
+MODEL: ./100_test/model_0.37.h5
+Paremeters: 2821299
+[INFO] Execution time for 1000 images was 12.175206422805786 seconds
+Accuracy: 0.946
+Precision: 0.9665271966527197
+Recall: 0.924
+
+MODEL: ./100_test/model_0.38.h5
+Paremeters: 3335014
+[INFO] Execution time for 1000 images was 14.547074556350708 seconds
+Accuracy: 0.931
+Precision: 0.9480249480249481
+Recall: 0.912
+
+MODEL: ./100_test/model_0.39.h5
+Paremeters: 3564085
+[INFO] Execution time for 1000 images was 17.758167505264282 seconds
+Accuracy: 0.949
+Precision: 0.9393346379647749
+Recall: 0.96
+
+MODEL: ./100_test/model_0.4.h5
+Paremeters: 3777842
+[INFO] Execution time for 1000 images was 15.330334186553955 seconds
+Accuracy: 0.942
+Precision: 0.9437751004016064
+Recall: 0.94
+
+MODEL: ./100_test/model_0.41.h5
+Paremeters: 4080909
+[INFO] Execution time for 1000 images was 16.156408309936523 seconds
+Accuracy: 0.928
+Precision: 0.8977695167286245
+Recall: 0.966
+
+MODEL: ./100_test/model_0.42.h5
+Paremeters: 4372913
+[INFO] Execution time for 1000 images was 14.214366912841797 seconds
+Accuracy: 0.917
+Precision: 0.8926553672316384
+Recall: 0.948
+
+MODEL: ./100_test/model_0.43.h5
+Paremeters: 4569716
+[INFO] Execution time for 1000 images was 15.361598491668701 seconds
+Accuracy: 0.88
+Precision: 0.9460093896713615
+Recall: 0.806
+
+MODEL: ./100_test/model_0.44.h5
+Paremeters: 5005173
+[INFO] Execution time for 1000 images was 13.813502788543701 seconds
+Accuracy: 0.885
+Precision: 0.9550827423167849
+Recall: 0.808
+
+MODEL: ./100_test/model_0.45.h5
+Paremeters: 5426295
+[INFO] Execution time for 1000 images was 15.123914003372192 seconds
+Accuracy: 0.937
+Precision: 0.9760348583877996
+Recall: 0.896
+
+MODEL: ./100_test/model_0.46.h5
+Paremeters: 5582032
+[INFO] Execution time for 1000 images was 13.820142030715942 seconds
+Accuracy: 0.93
+Precision: 0.9653679653679653
+Recall: 0.892
+
+MODEL: ./100_test/model_0.47.h5
+Paremeters: 5717847
+[INFO] Execution time for 1000 images was 14.437695741653442 seconds
+Accuracy: 0.957
+Precision: 0.967280163599182
+Recall: 0.946
+
+MODEL: ./100_test/model_0.48.h5
+Paremeters: 6048716
+[INFO] Execution time for 1000 images was 14.284568786621094 seconds
+Accuracy: 0.953
+Precision: 0.9432485322896281
+Recall: 0.964
+
+MODEL: ./100_test/model_0.49.h5
+Paremeters: 6352090
+[INFO] Execution time for 1000 images was 14.225733041763306 seconds
+Accuracy: 0.954
+Precision: 0.9576612903225806
+Recall: 0.95
+
+MODEL: ./100_test/model_0.5.h5
+Paremeters: 6927998
+[INFO] Execution time for 1000 images was 14.776489019393921 seconds
+Accuracy: 0.981
+Precision: 0.9800399201596807
+Recall: 0.982
+
+MODEL: ./100_test/model_0.51.h5
+Paremeters: 7129320
+[INFO] Execution time for 1000 images was 14.6394944190979 seconds
+Accuracy: 0.98
+Precision: 0.974308300395257
+Recall: 0.986
+
+MODEL: ./100_test/model_0.52.h5
+Paremeters: 8108145
+[INFO] Execution time for 1000 images was 15.482294082641602 seconds
+Accuracy: 0.973
+Precision: 0.989648033126294
+Recall: 0.956
+
+MODEL: ./100_test/model_0.53.h5
+Paremeters: 8154958
+[INFO] Execution time for 1000 images was 15.226097345352173 seconds
+Accuracy: 0.942
+Precision: 0.9889380530973452
+Recall: 0.894
+
+MODEL: ./100_test/model_0.54.h5
+Paremeters: 8540160
+[INFO] Execution time for 1000 images was 15.433443069458008 seconds
+Accuracy: 0.973
+Precision: 0.983640081799591
+Recall: 0.962
+
+MODEL: ./100_test/model_0.55.h5
+Paremeters: 8687532
+[INFO] Execution time for 1000 images was 15.822596073150635 seconds
+Accuracy: 0.978
+Precision: 0.9857723577235772
+Recall: 0.97
+
+MODEL: ./100_test/model_0.56.h5
+Paremeters: 8951204
+[INFO] Execution time for 1000 images was 16.34023690223694 seconds
+Accuracy: 0.952
+Precision: 0.9788135593220338
+Recall: 0.924
+
+MODEL: ./100_test/model_0.57.h5
+Paremeters: 8699882
+[INFO] Execution time for 1000 images was 16.003679037094116 seconds
+Accuracy: 0.962
+Precision: 0.9753086419753086
+Recall: 0.948
+
+MODEL: ./100_test/model_0.58.h5
+Paremeters: 9040551
+[INFO] Execution time for 1000 images was 16.30769419670105 seconds
+Accuracy: 0.943
+Precision: 0.9763440860215054
+Recall: 0.908
+
+MODEL: ./100_test/model_0.59.h5
+Paremeters: 9195756
+[INFO] Execution time for 1000 images was 16.152021646499634 seconds
+Accuracy: 0.945
+Precision: 0.978494623655914
+Recall: 0.91
+
+MODEL: ./100_test/model_0.6.h5
+Paremeters: 9784986
+[INFO] Execution time for 1000 images was 16.950771808624268 seconds
+Accuracy: 0.942
+Precision: 0.982532751091703
+Recall: 0.9
+
+MODEL: ./100_test/model_0.61.h5
+Paremeters: 10050893
+[INFO] Execution time for 1000 images was 16.958026885986328 seconds
+Accuracy: 0.951
+Precision: 0.9849462365591398
+Recall: 0.916
+
+MODEL: ./100_test/model_0.62.h5
+Paremeters: 10281982
+[INFO] Execution time for 1000 images was 17.215556621551514 seconds
+Accuracy: 0.952
+Precision: 0.9808510638297873
+Recall: 0.922
+
+MODEL: ./100_test/model_0.63.h5
+Paremeters: 10760128
+[INFO] Execution time for 1000 images was 17.454216480255127 seconds
+Accuracy: 0.943
+Precision: 0.9955257270693513
+Recall: 0.89
+
+MODEL: ./100_test/model_0.64.h5
+Paremeters: 10988551
+[INFO] Execution time for 1000 images was 17.35439109802246 seconds
+Accuracy: 0.958
+Precision: 0.9935344827586207
+Recall: 0.922
+
+MODEL: ./100_test/model_0.65.h5
+Paremeters: 11127347
+[INFO] Execution time for 1000 images was 17.650771856307983 seconds
+Accuracy: 0.927
+Precision: 0.9976689976689976
+Recall: 0.856
+
+MODEL: ./100_test/model_0.66.h5
+Paremeters: 11316919
+[INFO] Execution time for 1000 images was 17.747876405715942 seconds
+Accuracy: 0.974
+Precision: 0.9876543209876543
+Recall: 0.96
+
+MODEL: ./100_test/model_0.67.h5
+Paremeters: 11501475
+[INFO] Execution time for 1000 images was 17.86891770362854 seconds
+Accuracy: 0.945
+Precision: 0.9911699779249448
+Recall: 0.898
+
+MODEL: ./100_test/model_0.68.h5
+Paremeters: 11626665
+[INFO] Execution time for 1000 images was 17.916708946228027 seconds
+Accuracy: 0.98
+Precision: 0.9878048780487805
+Recall: 0.972
+
+MODEL: ./100_test/model_0.69.h5
+Paremeters: 11778126
+[INFO] Execution time for 1000 images was 17.768181562423706 seconds
+Accuracy: 0.975
+Precision: 0.9917184265010351
+Recall: 0.958
+
+MODEL: ./100_test/model_0.7.h5
+Paremeters: 11956415
+[INFO] Execution time for 1000 images was 18.149616956710815 seconds
+Accuracy: 0.965
+Precision: 0.9936305732484076
+Recall: 0.936
+
+MODEL: ./100_test/model_0.71.h5
+Paremeters: 12152136
+[INFO] Execution time for 1000 images was 18.15480947494507 seconds
+Accuracy: 0.972
+Precision: 0.9937238493723849
+Recall: 0.95
+
+MODEL: ./100_test/model_0.72.h5
+Paremeters: 12291998
+[INFO] Execution time for 1000 images was 18.16970992088318 seconds
+Accuracy: 0.969
+Precision: 0.9875259875259875
+Recall: 0.95
+
+MODEL: ./100_test/model_0.73.h5
+Paremeters: 12335613
+[INFO] Execution time for 1000 images was 18.180466890335083 seconds
+Accuracy: 0.96
+Precision: 0.9893617021276596
+Recall: 0.93
+
+MODEL: ./100_test/model_0.74.h5
+Paremeters: 12446954
+[INFO] Execution time for 1000 images was 17.99017858505249 seconds
+Accuracy: 0.961
+Precision: 0.9914712153518124
+Recall: 0.93
+
+MODEL: ./100_test/model_0.75.h5
+Paremeters: 12612395
+[INFO] Execution time for 1000 images was 18.434919357299805 seconds
+Accuracy: 0.953
+Precision: 0.9808917197452229
+Recall: 0.924
+
+MODEL: ./100_test/model_0.76.h5
+Paremeters: 12701543
+[INFO] Execution time for 1000 images was 18.613880395889282 seconds
+Accuracy: 0.953
+Precision: 0.9870967741935484
+Recall: 0.918
+
+MODEL: ./100_test/model_0.77.h5
+Paremeters: 12799534
+[INFO] Execution time for 1000 images was 18.65238881111145 seconds
+Accuracy: 0.951
+Precision: 0.9870410367170627
+Recall: 0.914
+
+MODEL: ./100_test/model_0.78.h5
+Paremeters: 12975644
+[INFO] Execution time for 1000 images was 18.072340488433838 seconds
+Accuracy: 0.953
+Precision: 0.9850107066381156
+Recall: 0.92
+
+MODEL: ./100_test/model_0.79.h5
+Paremeters: 13081292
+[INFO] Execution time for 1000 images was 18.52878189086914 seconds
+Accuracy: 0.947
+Precision: 0.9848156182212582
+Recall: 0.908
+
+MODEL: ./100_test/model_0.8.h5
+Paremeters: 13199756
+[INFO] Execution time for 1000 images was 18.803242444992065 seconds
+Accuracy: 0.949
+Precision: 0.9891067538126361
+Recall: 0.908
+
+MODEL: ./100_test/model_0.81.h5
+Paremeters: 13319483
+[INFO] Execution time for 1000 images was 19.050902605056763 seconds
+Accuracy: 0.944
+Precision: 0.9847161572052402
+Recall: 0.902
+
+MODEL: ./100_test/model_0.82.h5
+Paremeters: 13461750
+[INFO] Execution time for 1000 images was 18.471948623657227 seconds
+Accuracy: 0.939
+Precision: 0.9824175824175824
+Recall: 0.894
+
+MODEL: ./100_test/model_0.83.h5
+Paremeters: 13569612
+[INFO] Execution time for 1000 images was 18.993221521377563 seconds
+Accuracy: 0.933
+Precision: 0.9843400447427293
+Recall: 0.88
+
+MODEL: ./100_test/model_0.84.h5
+Paremeters: 13693433
+[INFO] Execution time for 1000 images was 18.909459829330444 seconds
+Accuracy: 0.932
+Precision: 0.98
+Recall: 0.882
+
+MODEL: ./100_test/model_0.85.h5
+Paremeters: 13806273
+[INFO] Execution time for 1000 images was 19.210607051849365 seconds
+Accuracy: 0.92
+Precision: 0.9794520547945206
+Recall: 0.858
+
+MODEL: ./100_test/model_0.86.h5
+Paremeters: 13875474
+[INFO] Execution time for 1000 images was 18.984650373458862 seconds
+Accuracy: 0.922
+Precision: 0.9817351598173516
+Recall: 0.86
+
+MODEL: ./100_test/model_0.87.h5
+Paremeters: 13980545
+[INFO] Execution time for 1000 images was 19.12145733833313 seconds
+Accuracy: 0.93
+Precision: 0.9842342342342343
+Recall: 0.874
+
+MODEL: ./100_test/model_0.88.h5
+Paremeters: 14050125
+[INFO] Execution time for 1000 images was 18.595165252685547 seconds
+Accuracy: 0.915
+Precision: 0.9814385150812065
+Recall: 0.846
+
+MODEL: ./100_test/model_0.89.h5
+Paremeters: 14125178
+[INFO] Execution time for 1000 images was 19.495677947998047 seconds
+Accuracy: 0.902
+Precision: 0.9740566037735849
+Recall: 0.826
+
+MODEL: ./100_test/model_0.90.h5
+Paremeters: 14273248
+[INFO] Execution time for 1000 images was 19.495677947998047 seconds
+Accuracy: 0.92
+Precision: 0.9540566037735849
+Recall: 0.916
+
+MODEL: ./100_test/model_0.91.h5
+Paremeters: 14420394
+[INFO] Execution time for 1000 images was 19.495677947998047 seconds
+Accuracy: 0.93
+Precision: 0.935849
+Recall: 0.92342
+
+MODEL: ./100_test/model_0.92.h5
+Paremeters: 14567541
+[INFO] Execution time for 1000 images was 19.495677947998047 seconds
+Accuracy: 0.942
+Precision: 0.917351
+Recall: 0.924
+
+BEST MODEL: ./100_test/model_0.5.h5
+PARAMETERS: 6927998
+ACCURACY: 0.981
