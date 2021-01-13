@@ -64,7 +64,7 @@ Specific models are derived from 100 models metrics made for both VGG16 vanilla 
 Models metrics:
 
 <p align="center">
-  <img src="https://i.ibb.co/zm0vHxL/metrics.png" alt="FTL metrics" width="625" height="330"/>
+  <img src="https://i.ibb.co/zm0vHxL/metrics.png" alt="FTL metrics" width="937" height="495"/>
 </p>
 
 Decision function:
