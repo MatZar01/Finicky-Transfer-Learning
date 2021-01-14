@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4291233.svg)](https://doi.org/10.5281/zenodo.4291233)
 
-# Fussy-Transfer-Learning
+# Fussy Transfer Learning
 
 <p align="center">
   <img src="https://i.ibb.co/82dqbV7/FTL-logo.png" alt="FTL project logo" width="375" height="361"/>
