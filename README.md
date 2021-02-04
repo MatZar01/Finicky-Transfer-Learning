@@ -22,7 +22,7 @@ Fussy Transfer Learning methods were made to enable the use of AI methods in und
 The main differences between regular Transfer Learning, CNN pruning and Fussy Transfer Learning are shown in the image below:
 
 <p align="center">
-  <img src="https://i.ibb.co/X2tbLwd/fig-tl-p-ftl-1.png" alt="FTL visual abstract" width="550" height="700"/>
+  <img src="https://i.ibb.co/1XjpGgh/fig1.png" alt="FTL visual abstract" width="550" height="700"/>
 </p>
 
 ## Dependencies and setup
