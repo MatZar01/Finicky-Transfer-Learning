@@ -6,7 +6,7 @@
   <img src="https://i.ibb.co/82dqbV7/FTL-logo.png" alt="FTL project logo" width="375" height="361"/>
 </p>
 
->**Fussy Transfer Leraning is an open source CNN pruning set of methods developed to enable widespread use of AI methods in areas with shortege of computing resources and edge-computing devices. It allows for transfer learning of CNN models trained on vast datasets to work with specific use cases while significantly reducing their inference time and increasing accuracy.**
+>**Finicky Transfer Leraning is an open source CNN pruning set of methods developed to enable widespread use of AI methods in areas with shortege of computing resources and edge-computing devices. It allows for transfer learning of CNN models trained on vast datasets to work with specific use cases while significantly reducing their inference time and increasing accuracy.**
 
 ## Table of contents
 * [General info](#general-info)
@@ -17,9 +17,9 @@
 
 ## General info
 
-Fussy Transfer Learning methods were made to enable the use of AI methods in underfunded governmental agencies with limited access to computing resources. Provided methods are meant to use for lowering inference time of image classification models used in infrastructure maintenance agencies for assessing defects in public infrastructure.
+Finicky Transfer Learning methods were made to enable the use of AI methods in underfunded governmental agencies with limited access to computing resources. Provided methods are meant to use for lowering inference time of image classification models used in infrastructure maintenance agencies for assessing defects in public infrastructure.
 
-The main differences between regular Transfer Learning, CNN pruning and Fussy Transfer Learning are shown in the image below:
+The main differences between regular Transfer Learning, CNN pruning and Finicky Transfer Learning are shown in the image below:
 
 <p align="center">
   <img src="https://i.ibb.co/1XjpGgh/fig1.png" alt="FTL visual abstract" width="550" height="700"/>
@@ -27,7 +27,7 @@ The main differences between regular Transfer Learning, CNN pruning and Fussy Tr
 
 ## Dependencies and setup
 
-With current release, Fussy Transfer Learning methods are provided for and tested on Linux based operating systems, however Windows OS is also supported if appropriate dependencies are fulfilled. 
+With current release, Finicky Transfer Learning methods are provided for and tested on Linux based operating systems, however Windows OS is also supported if appropriate dependencies are fulfilled. 
 
 All of the dependencies required to run repository methods are listed in `install_dependencies.sh` bash script. It can also be used to install required libraries directly on the machine. Note that for the package to run, at least `Python 3.6` is required.
 
@@ -73,7 +73,7 @@ Decision function:
   <img src="https://i.ibb.co/CnytBjP/dec-func.png" alt="FTL decision" width="530" height="350"/>
 </p>
 
-Models obtained using Fussy Transfer Learning Methods obtain higher accuracy and lower inference time as compared to base models. Comparison between base model and Fussy Transfer Learned one can be seen below (for AlexNet model, 5 consecutive runs have standard deviation in parentheses calculated covering all tested, initial model variants):
+Models obtained using Finicky Transfer Learning Methods obtain higher accuracy and lower inference time as compared to base models. Comparison between base model and Finicky Transfer Learned one can be seen below (for AlexNet model, 5 consecutive runs have standard deviation in parentheses calculated covering all tested, initial model variants):
 
 <p align="center">
   <img src="https://i.ibb.co/njm3YNp/Comparison.png" alt="FTL comparison" width="404" height="237"/>
@@ -81,14 +81,14 @@ Models obtained using Fussy Transfer Learning Methods obtain higher accuracy and
 
 ## Acknowledgments
 
-Fussy Transfer Learning is associated with research paper:
+Finicky Transfer Learning is associated with research paper:
 
-Mateusz Żarski<sup>[1](#footnote1)</sup>, Bartosz Wójcik<sup>[1](#footnote1)</sup>, Jarosław Adam Miszczak<sup>[2](#footnote2)</sup>, Kamil Książek<sup>[2](#footnote2)</sup>, *Fussy Transfer Learning - a method of pruning convolutional neural networks for cracks classification*, arXiv:[placeholder](placeholder) 
+Mateusz Żarski<sup>[1](#footnote1)</sup>, Bartosz Wójcik<sup>[1](#footnote1)</sup>, Jarosław Adam Miszczak<sup>[2](#footnote2)</sup>, Kamil Książek<sup>[2](#footnote2)</sup>, *Finicky Transfer Learning - a method of pruning convolutional neural networks for cracks classification*, arXiv:[placeholder](placeholder) 
 
 <a name="footnote1"><sup>1</sup></a>Department of Civil Engineering, Silesian University of Technology,
 <a name="footnote2"><sup>3</sup></a>Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
 
-Fussy Transfer Learning is free to use under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+Finicky Transfer Learning is free to use under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
 *This project was supported by Polish National Center for Research and Developement
 under grant number POWR.03.05.00-00.z098/17-00.*
