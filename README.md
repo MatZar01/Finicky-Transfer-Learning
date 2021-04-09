@@ -22,7 +22,7 @@ Finicky Transfer Learning methods were made to enable the use of AI methods in u
 The main differences between regular Transfer Learning, CNN pruning and Finicky Transfer Learning are shown in the image below:
 
 <p align="center">
-  <img src="https://i.ibb.co/1XjpGgh/fig1.png" alt="FTL visual abstract" width="550" height="700"/>
+  <img src="https://i.ibb.co/bFMFZ0Q/schemat-dla-mtxa.jpg" alt="FTL visual abstract" width="550" height="700"/>
 </p>
 
 ## Dependencies and setup
