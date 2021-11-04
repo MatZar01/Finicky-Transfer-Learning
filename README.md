@@ -83,7 +83,7 @@ Models obtained using Finicky Transfer Learning Methods obtain higher accuracy a
 
 Finicky Transfer Learning is associated with research paper:
 
-Mateusz Żarski<sup>[1](#footnote1)</sup>, Bartosz Wójcik<sup>[1](#footnote1)</sup>, Jarosław Adam Miszczak<sup>[2](#footnote2)</sup>, Kamil Książek<sup>[2](#footnote2)</sup>, *Finicky Transfer Learning - a method of pruning convolutional neural networks for cracks classification*, arXiv:[placeholder](placeholder) 
+Mateusz Żarski<sup>[1](#footnote1)</sup>, Bartosz Wójcik<sup>[1](#footnote1)</sup>, Jarosław Adam Miszczak<sup>[2](#footnote2)</sup>, Kamil Książek<sup>[2](#footnote2)</sup>, *Finicky Transfer Learning - a method of pruning convolutional neural networks for cracks classification*, Computer-Aided Civil And Infrastructure Engineering, 2021, http://doi.org/10.1111/mice.12755, arXiv:[placeholder](placeholder) 
 
 <a name="footnote1"><sup>1</sup></a>Department of Civil Engineering, Silesian University of Technology,
 <a name="footnote2"><sup>3</sup></a>Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
